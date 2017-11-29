@@ -36,14 +36,10 @@ def find_packet_manager():
 
 def install_dependences():
 	try:
-		"""pm = find_packet_manager()
-		syntax = None
-		if pm == "apt":
-			syntax = pm + " install"
-		if pm == "pacman" """
-
 		print "\n[*] Installing dependences..\n"
-		os.system("apt install pluma")
+		os.system("apt install tor")
+		os.system("apt install proxychains")
+		os.system("apt install sshpass")
 		print "\n[*] Dependences installed..\n"
 	except OSError as e:
 		print "[!] Error!\n"
