@@ -1,5 +1,5 @@
 SSHDODGE
-Tool used to test weakness of some ssh password, thanks to a dictionary attack (bypassing fail to ban protection).
+Tool used to test weakness of some ssh password, thanks to a dictionary attack (bypassing fail2ban protection).
 
 Copyright (C) 2017  Neetx
 
@@ -31,10 +31,14 @@ DEPENDENCES: You need to install on your system:
 	-sshpass
 	-proxychains
 
+SYSTEM USED:
+	- Debian 9.2
+
 COLLABORATIONS:
 
 davenull : dave-null@riseup.net
 neb 	 :nebulasit@riseup.net
 Website: https://www.freenixsecurity.net
 
-giuseongit : https://github.com/giuseongit 
+giuseongit : giuseppe.pagano.p@gmail.com
+Website	   : https://github.com/giuseongit 
