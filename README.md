@@ -61,10 +61,3 @@ SYSTEM USED:
 * [davenull](mailto:dave-null@riseup.net)
 * [neb](nebulasit@riseup.net)<br/>[website](https://www.freenixsecurity.net)
 * [giuseongit](giuseppe.pagano.p@gmail.com)<br/>[website](https://github.com/giuseongit)
-=======
-davenull : dave-null@riseup.net
-neb 	 : nebulasit@riseup.net
-Website: https://www.freenixsecurity.net
-
-giuseongit : giuseppe.pagano.p@gmail.com
-Website	   : https://github.com/giuseongit 
