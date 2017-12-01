@@ -1,6 +1,6 @@
 """
 SSHDODGE
-Tool used to test weakness of some ssh password, thanks to a dictionary attack (bypassing fail to ban protection).
+Tool used to test weakness of some ssh passwords, thanks to a dictionary attack (bypassing fail to ban protection).
 
 Copyright (C) 2017  Neetx
 
@@ -60,9 +60,6 @@ def check_dependences():
 	print "[*] Checking dependences.."
 	if not check_tool("ssh"):
 		print "\tSsh not found!"
-		dependences = False
-	if not check_tool("anonsurf"):
-		print "\tAnonsurf not found!"
 		dependences = False
 	if not check_tool("sshpass"):
 		print "\tSshpass not found!"

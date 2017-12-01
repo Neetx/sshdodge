@@ -1,6 +1,10 @@
 SSHDODGE
+<<<<<<< Updated upstream
 ========
-Tool used to test weakness of some ssh password, thanks to a dictionary attack (bypassing fail2ban protection).<br/>
+Tool used to test weakness of some ssh passwords, thanks to a dictionary attack (bypassing fail2ban protection).<br/>
+=======
+
+>>>>>>> Stashed changes
 Copyright (C) 2017  Neetx
 
 Sshdodge is free software: you can redistribute it and/or modify
@@ -21,7 +25,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 ---
 
-Tool developed to demonstrate the weakness of some ssh password.
+Tool developed to demonstrate the weakness of some ssh passwords.
 It bypasses fail to ban protection changing ip with anonsurf, after some attempts defined in input by user.
 Use these tool with consciousness.
 
@@ -56,8 +60,17 @@ SYSTEM USED:
 * Debian 9.2
 
 
+<<<<<<< Updated upstream
 ##### COLLABORATIONS:
 
 * [davenull](mailto:dave-null@riseup.net)
 * [neb](nebulasit@riseup.net)<br/>[website](https://www.freenixsecurity.net)
 * [giuseongit](giuseppe.pagano.p@gmail.com)<br/>[website](https://github.com/giuseongit)
+=======
+davenull : dave-null@riseup.net
+neb 	 : nebulasit@riseup.net
+Website: https://www.freenixsecurity.net
+
+giuseongit : giuseppe.pagano.p@gmail.com
+Website	   : https://github.com/giuseongit 
+>>>>>>> Stashed changes

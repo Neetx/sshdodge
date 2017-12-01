@@ -2,7 +2,7 @@
 
 """
 SSHDODGE
-Tool used to test weakness of some ssh password, thanks to a dictionary attack (bypassing fail to ban protection).
+Tool used to test weakness of some ssh passwords, thanks to a dictionary attack (bypassing fail to ban protection).
 
 Copyright (C) 2017  Neetx
 
