@@ -1,10 +1,8 @@
 SSHDODGE
-<<<<<<< Updated upstream
 ========
 Tool used to test weakness of some ssh passwords, thanks to a dictionary attack (bypassing fail2ban protection).<br/>
 =======
 
->>>>>>> Stashed changes
 Copyright (C) 2017  Neetx
 
 Sshdodge is free software: you can redistribute it and/or modify
