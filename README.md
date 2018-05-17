@@ -23,7 +23,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>
 ---
 
 Tool developed to demonstrate the weakness of some ssh passwords.
-It bypasses fail to ban protection changing ip with anonsurf, after some attempts defined in input by user.
+It bypasses fail to ban protection changing ip with tor reload function, after some attempts defined in input by user.
 Use these tool with consciousness.
 
 Usage:
