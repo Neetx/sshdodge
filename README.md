@@ -43,6 +43,11 @@ optional arguments:
   -t, --test            Use the to test dependences
 ```
 
+
+### for brute forcing when password is known
+
+`sudo python username_dodger.py wordlist.txt -i pwspray.vm.vuln.land -p 22 -a 10 -P b84fc5c2`
+
 Example:
 ```bash
 sudo ./sshdodge -u root -i 127.0.0.1 -p 22 wordlist.txt -a 3
